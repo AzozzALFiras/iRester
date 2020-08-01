@@ -1,0 +1,9 @@
+Package: co.azozzalfiras.irester
+Name: iResters
+Depends: mobilesubstrate, co.azozzalfiras.azfLibrary
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Reset Tweaks default settings
+Maintainer: Azozz ALFiras
+Author: Azozz ALFiras
+Section: Tweaks
